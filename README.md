@@ -9,5 +9,6 @@ The notebook is structured in a few segments:
 3. Using transfer learning to improve accuracy (accuracy: ~79%)
 4. Testing the results
 5. Added functionality to test for mutts
+6. Added functionality to create a web app using Flask
 
 DenseNet-161 (pre-trained) model has been used for feature extraction using transfer learning.
